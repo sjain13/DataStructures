@@ -1,4 +1,4 @@
-package leetcode.slidingwindow;
+package src.slidingwindow;
 
 import java.util.HashSet;
 
